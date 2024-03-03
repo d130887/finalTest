@@ -1,3 +1,5 @@
+//Final test
+
 string[] GetArrayStringConsole (string inConsolSymbol)
 {
     string[] arraySymbol = new string[inConsolSymbol.Length];
